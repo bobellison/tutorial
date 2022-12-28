@@ -2,4 +2,4 @@
 import myname
 
 name = myname.get_name()
-print("hello {}".format(name))
+print("Hello {}".format(name),"from Git!")

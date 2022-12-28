@@ -1,4 +1,5 @@
 # myname.py
 def get_name():
-        return "Jim"
+    name=input("Please enter your name: ")
+    return name
 
